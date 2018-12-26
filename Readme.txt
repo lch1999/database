@@ -1,6 +1,7 @@
-ÔÚsjtuµÄĞ£Ô°ÍøÄÚ¿ÉÒÔÖ±½Ó·ÃÎÊhttp://lilab.life.sjtu.edu.cn:8080/nhlpd/ribosomal/index.php²é¿´Êı¾İ¿â¡£
-Èô²»ÔÚĞ£Ô°ÍøÄÚ£¬¿ÉÔÚ±¾µØä¯ÀÀ¡£·½·¨ÈçÏÂ£º½âÑ¹phpstudy£¬ÔËĞĞphpstudy.exe¡£ÔÚä¯ÀÀÆ÷ÖĞÊäÈëlocalhost/ribosomal/¼´¿ÉÔËĞĞ¡£
-Êı¾İ¿âÔ­ÎÄ¼ş£ºribosomal£¬drug_resistant_strain_ribosome¡£
-drug_resistant_strain_ribosomeÎªmysqlµÄdata¡£Èç±¾µØÅäÖÃºÃÔËĞĞ»·¾³¿ÉÖ»ÏÂÔØÁ½¸öÔ­ÎÄ¼ş¡£
-ÔÚphpstudyÖĞribosomalÎ»ÓÚPHPstudy\PHPTutorial\WWW¡£
-drug_resistant_strain_ribosomeÎ»ÓÚPHPstudy\PHPTutorial\MySQL\data
+åœ¨sjtuçš„æ ¡å›­ç½‘å†…å¯ä»¥ç›´æ¥è®¿é—®http://lilab.life.sjtu.edu.cn:8080/nhlpd/ribosomal/index.phpæŸ¥çœ‹æ•°æ®åº“ã€‚
+è‹¥ä¸åœ¨æ ¡å›­ç½‘å†…ï¼Œå¯åœ¨æœ¬åœ°æµè§ˆã€‚æ–¹æ³•å¦‚ä¸‹ï¼šè§£å‹phpstudyï¼Œè¿è¡Œphpstudy.exeã€‚åœ¨æµè§ˆå™¨ä¸­è¾“å…¥localhost/ribosomal/å³å¯è¿è¡Œã€‚
+æ•°æ®åº“åŸæ–‡ä»¶ï¼šribosomalï¼Œdrug_resistant_strain_ribosomeã€‚
+drug_resistant_strain_ribosomeä¸ºmysqlçš„dataã€‚å¦‚æœ¬åœ°é…ç½®å¥½è¿è¡Œç¯å¢ƒå¯åªä¸‹è½½ä¸¤ä¸ªåŸæ–‡ä»¶ã€‚
+åœ¨phpstudyä¸­ribosomalä½äºPHPstudy\PHPTutorial\WWWã€‚
+drug_resistant_strain_ribosomeä½äºPHPstudy\PHPTutorial\MySQL\data
+phpç‰ˆæœ¬ä¸º3.29
